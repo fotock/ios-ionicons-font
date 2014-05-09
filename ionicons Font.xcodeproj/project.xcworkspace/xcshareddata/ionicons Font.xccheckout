@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B901DC61-6EA9-41F7-A3BD-AAC09E9E5BAB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ionicons Font</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>18647E4C-EFDE-422D-9F18-8D185B027C68</key>
+		<string>https://github.com/fotock/ios-ionicons-font.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ionicons Font.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>18647E4C-EFDE-422D-9F18-8D185B027C68</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fotock/ios-ionicons-font.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>18647E4C-EFDE-422D-9F18-8D185B027C68</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>18647E4C-EFDE-422D-9F18-8D185B027C68</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-ionicons-font</string>
+		</dict>
+	</array>
+</dict>
+</plist>
