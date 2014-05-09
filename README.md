@@ -1,13 +1,13 @@
-Common icons font for UILabel, UIButton, UITextField. Life should be easy.
+Common icons font for UILabel, UIButton, UITextField. Life made easy.
 
 ![](sample-a.png)
 ![](sample-b.png)
 ![](sample-c.png)
 
 ## Getting Started
-#### Step A:
+##### Step A:
 Copy ionicons.ttf, IonIconsKit.h, IonIconsKit.m into your project.
-#### Step B:
+##### Step B:
 Info.plist Settings. Add "Fonts provided by application" item by clicking on the "+" icon, then set "Item 0" with value "ionicons.ttf".
 ![Info.plist changes](plist-settings.png)
 
