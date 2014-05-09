@@ -5,14 +5,17 @@ Common icons font for UILabel, UIButton, UITextField. Life should be easy.
 ![](sample-c.png)
 
 ## Getting Started
-* Step A. Copy ionicons.ttf, IonIconsKit.h, IonIconsKit.m into your project.
-* Step B. Info.plist Settings. Add "Fonts provided by application" item by clicking on the "+" icon, then set "Item 0" with value "ionicons.ttf".
+#### Step A:
+Copy ionicons.ttf, IonIconsKit.h, IonIconsKit.m into your project.
+#### Step B:
+Info.plist Settings. Add "Fonts provided by application" item by clicking on the "+" icon, then set "Item 0" with value "ionicons.ttf".
 ![Info.plist changes](plist-settings.png)
 
 
 ## Sample Code
 
 #### Use ionicons with UILabel:
+
 ```objective-c
 #import "IonIconsKit.h"
 
@@ -25,6 +28,7 @@ label.font = [UIFont ioniconsFontOfSize:38.f];          // Set ionicons font wit
 Also you can use it with UIButton, ...
 
 #### Use ionicons as loading spinner (add animations to UILabel)
+
 ```objective-c
 label.frame = CGRectMake(50, 5, 36, 36);  // Square frame
 [label runSpinnerViewWithDuration:20.f];  // in seconds
