@@ -33,6 +33,7 @@ Also you can use it with UIButton, ...
 label.frame = CGRectMake(50, 5, 36, 36);  // Square frame
 [label runSpinnerViewWithDuration:20.f];  // in seconds
 ```
+That's all!
 
 ## Reference
 * [ionicons](https://github.com/driftyco/ionicons)
