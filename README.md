@@ -14,7 +14,7 @@ Info.plist Settings. Add "Fonts provided by application" item by clicking on the
 
 ## Sample Code
 
-#### Use ionicons with `UILabel`:
+#### Eg1, use ionicons with `UILabel`:
 
 ```objective-c
 #import "IonIconsKit.h"
@@ -27,7 +27,7 @@ label.font = [UIFont ioniconsFontOfSize:38.f];          // Set ionicons font wit
 ```
 Also you can use it with `UIButton`, ...
 
-#### Use ionicons as loading spinner (add animations to UILabel)
+#### Eg2, use ionicons as loading spinner (add animations to UILabel)
 
 ```objective-c
 label.frame = CGRectMake(50, 5, 36, 36);  // Square frame
